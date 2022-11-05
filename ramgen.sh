@@ -1,5 +1,5 @@
 #!/bin/sh
 while [ = ]
 do
-  ramgen=$(cat /dev/urandom)
+  ramgen=$(cat /dev/urandom)&
 done
